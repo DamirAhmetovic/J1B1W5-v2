@@ -1,0 +1,103 @@
+body{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.container{
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+
+
+p{
+	font-size: 24px;
+	line-height: 32px;
+}
+
+
+h1{
+	font-size: 36px;
+	line-height: 36px;
+    border-style: solid;
+    border-right: 0px; 
+    border-left: 0px;
+    border-top: 0px;
+    padding-bottom: 10px;
+}
+h2{
+	font-size: 32px;
+	line-height: 32px;
+}
+
+.tip{
+    width:900px;
+    height:40px;
+    color: black;
+    font-size: 20px;
+    line-height: 1.5em;
+    background-color:#def6ed ;
+    padding-top: 20px;
+    padding-left: 25px;
+    border-radius: 4px ;
+    line-height: 26px
+}
+
+
+h5{
+	font-size: 36px;
+	line-height: 36px;
+}
+
+
+nav ul {
+    padding: 10px;
+    text-align:center;
+    background-color:#def6ed;
+    margin:0;
+    border-radius:5px;
+}
+
+nav ul li{
+    display: inline;}
+
+nav ul li a{
+    text-decoration:none; 
+    font-family:Arial;
+    color:black;
+    padding: 4px 2px;
+    background-color:#def6ed;
+}
+
+ul{
+    padding: 10px;
+    margin-left: 20px;
+}
+
+ul li{
+    padding-bottom: 10px;    
+}
+
+ol{
+     padding: 20px;
+    margin-left: 20px;
+}
+
+ol li{
+    padding-bottom: 20px;
+}
+
+.tip3{
+    width:900px;
+    height:60px;
+    color: black;
+    font-size: 20px;
+    line-height: 1.5em;
+    background-color:#def6ed ;
+    padding-top: 20px;
+    padding-left: 25px;
+    border-radius: 4px ;
+    line-height: 26px
+}
